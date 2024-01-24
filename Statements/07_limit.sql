@@ -1,0 +1,1 @@
+SELECT * FROM hello_sql.users LIMIT 2;
