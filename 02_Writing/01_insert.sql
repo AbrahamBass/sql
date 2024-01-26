@@ -1,0 +1,1 @@
+INSERT INTO hello_sql.users (name, surname, age) VALUES ('Rita', 'Mendoza', 70);

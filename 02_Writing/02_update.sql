@@ -1,0 +1,1 @@
+UPDATE hello_sql.users SET age = 18 WHERE user_id = 8;
